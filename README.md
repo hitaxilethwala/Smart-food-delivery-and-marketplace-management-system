@@ -1,2 +1,2 @@
 # Smart-food-delivery-and-marketplace-management-system
-Data management for Analytics
+Database design, SQL, NoSQL, Python analytics, and visualization project for IE 6700.
